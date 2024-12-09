@@ -26,5 +26,11 @@ This repository contains implementations and theoretical foundations for generat
 Install the required libraries using:
 ```bash
 pip install networkx matplotlib
-## Running the Scripts
+
+Random Tree Generation:
+python Random-Tree-Generation.py
+
+Random Forest Generation:
+python Random-forest-generation.py
+
 
