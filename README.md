@@ -27,10 +27,4 @@ Install the required libraries using:
 ```bash
 pip install networkx matplotlib
 
-Random Tree Generation:
-python Random-Tree-Generation.py
-
-Random Forest Generation:
-python Random-forest-generation.py
-
 
