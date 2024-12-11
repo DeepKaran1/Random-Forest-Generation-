@@ -26,5 +26,23 @@ This repository contains implementations and theoretical foundations for generat
 Install the required libraries using:
 ```bash
 pip install networkx matplotlib
+```
 
+Running the Scripts
+To visualize Klingsberg's algorithm, run:
+```bash
+
+python Klinsberg-Algorithm_implementation.py
+```
+
+To generate a random labeled tree, run:
+```bash
+
+python Random-Tree-Generation.py
+```
+To generate a random labeled forest, run:
+```bash
+
+python Random-forest-generation.py
+```
 
