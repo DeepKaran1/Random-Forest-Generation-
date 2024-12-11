@@ -46,3 +46,9 @@ To generate a random labeled forest, run:
 python Random-forest-generation.py
 ```
 
+References
+This work builds upon foundational studies, including:
+
+Nijenhuis and Wilf's Combinatorial Algorithms for Computers and Calculators.
+Wilf's paper on uniform selection of free trees.
+Additional references are provided in the research paper.
